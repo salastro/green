@@ -1,0 +1,48 @@
+info:
+  "It's essential to me to work closely with other executives and managers to ensure that we're all aligned and working towards the same goals. Depending on the size and nature of the organization I lead, my responsibilities may vary. Still, I'm always looking for ways to improve efficiency, productivity, and profitability while maintaining a positive work culture and supporting the growth and development of my employees."
+
+skills:
+  - name: html5
+    level: 80
+  - name: css3
+    level: 95
+  - name: javascript
+    level: 75
+  - name: reactjs
+    level: 75
+  - name: nodejs
+    level: 80
+  - name: python
+    level: 70
+
+timeline:
+  - name: Web Developer
+    company: Vircrosoft
+    icon: fas fa-briefcase
+    date: 2010 - present
+    description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+  - name: Junior Web Developer
+    company: Tech Solutions
+    icon: fas fa-briefcase
+    date: 2008 - 2010
+    description: "As a Junior Web Developer at Tech Solutions, I gained experience developing and maintaining websites for clients. I worked with a team of developers and learned valuable skills in HTML, CSS, JavaScript, and content management systems."
+  - name: Freelance Web Developer
+    company: Self-employed
+    icon: fas fa-laptop
+    date: 2005 - 2008
+    description: "As a Freelance Web Developer, I worked with a variety of clients to create custom websites and web applications. I was responsible for all aspects of the development process, from design to deployment."
+  - name: Web Design Intern
+    company: Creative Minds
+    icon: fas fa-briefcase
+    date: 2004 - 2005
+    description: "As a Web Design Intern at Creative Minds, I worked with the design team to create mockups and wireframes for websites and other digital projects. I gained valuable experience with design software and learned how to work effectively in a creative team environment."
+
+items:
+  - highlight: Projects Complete
+    value: 650+
+  - highlight: Years of experience
+    value: 10+
+  - highlight: Satisfied Clients
+    value: 300+
+  - highlight: Customer reviews
+    value: 400+

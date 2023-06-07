@@ -1,0 +1,27 @@
+<section class="container" id="portfolio">
+    <div class="main-title">
+        <h2>My <span>Portfolio</span><span class="bg-text">My Work</span></h2>
+    </div>
+    <p class="port-text">
+        Here is some of my work that I've done in various programming languages.
+    </p>
+    <div class="portfolios">
+        {{ range .Site.Data.portfolio.items }}
+        <div class="portfolio-item">
+            <div class="image">
+                <img src="{{ .image }}" alt="">
+            </div>
+            <div class="hover-items">
+                <h3> {{ .name }} </h3>
+                <div class="icons">
+                    {{ range .links }}
+                    <a href="{{ .url }}" class="icon">
+                        <i class=" {{ .icon }}"></i>
+                    </a>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</section>

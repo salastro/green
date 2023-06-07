@@ -1,0 +1,11 @@
+items:
+  - name: Some code
+    image: /images/port1.jpg
+    links:
+      - icon: fab fa-github
+        url: https://github.com/Maclinz/JS_CSS_PortfolioProject
+  - name: Graphic design
+    image: /images/port2.jpg
+    links:
+      - icon: fab fa-behance
+        url: https://www.behance.net/gallery/154020263/PORTFOLIO
