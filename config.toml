@@ -9,17 +9,3 @@ name = 'John Doe'
 position = 'CEO'
 description = "My primary responsibility is to lead and manage the company or organization I'm in charge of. I set strategic goals, oversee operations, and manage employees to ensure that we achieve our objectives. As a CEO, I also make financial decisions and represent the company to stakeholders such as investors, customers, and the public."
 cv = 'https://example.org/cv.pdf'
-
-[author.contact]
-description = "Thank you for your interest in my company. As the CEO, I am always open to hearing from our customers, clients, and partners. If you have any questions, comments, or concerns, please do not hesitate to contact me."
-location = "London, UK"
-email = "john@doe.com"
-education = "University of London"
-mobile = "+44 123 456 789"
-languages = "English, Spanish, French"
-
-[author.social]
-facebook = "https://facebook.com/johndoe"
-twitter = "https://twitter.com/johndoe"
-github = "https://github.com/johndoe"
-youtube = "https://youtube.com/johndoe"
