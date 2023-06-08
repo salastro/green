@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <h1>My Blog</h1>
+  {{ range .Data.Pages }}
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Summary }}</p>
+  {{ end }}
+{{ end }}
